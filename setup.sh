@@ -296,7 +296,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Created By ADAM SIJA ]-==============="
+echo "===============-[ ScM SIJA ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
