@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script Mod by ADAM SIJA
+# Script Bagoes PN
 #!/bin/bash
 clear
 MAX=1
